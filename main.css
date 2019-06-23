@@ -36,6 +36,9 @@ button {
 
 .size-and-color {
   font-size: 80px;
-  color: white;
+  color: #EDBB99;
   transition: all 3s;
+  text-shadow:
+       4px 4px 0px white,
+       5px 5px 0px rgba(0, 0, 0, 0.2);
 }
