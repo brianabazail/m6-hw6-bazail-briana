@@ -33,3 +33,9 @@ button {
   font-family: 'News Cycle', sans-serif;
   font-size: 1rem;
 }
+
+.size-and-color {
+  font-size: 80px;
+  color: white;
+  transition: all 3s;
+}
